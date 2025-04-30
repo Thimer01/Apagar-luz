@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    font-size: 40px;
+    background-color: rgb(194, 194, 0);
+    border: none;
+}
+
+.claro{
+    background-color: aliceblue;
+}
+
+.oscuro{
+    background-color: black;
+}
